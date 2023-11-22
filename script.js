@@ -14,7 +14,7 @@ const quiz_data = [
         "quiz_name": "What is the purpose of the 'use strict' directive in JavaScript?",
         "options": ["To enable strict mode, which catches common coding errors.", "To allow for lax variable naming conventions.", "To disable all debugging features.", "To enforce case-sensitive variable naming."],
         "points_per_quiz": 10,
-        "time": 6,
+        "time": 20,
         "correct_answer": "To enable strict mode, which catches common coding errors."
     },
     {
